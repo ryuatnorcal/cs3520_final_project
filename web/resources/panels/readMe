@@ -1,0 +1,16 @@
+/******************************************
+  each index file uses panels 
+  following are in use panel list 
+******************************************/
+index.jsp:
+    - _panel1 // main 
+    - _panel2 // about 
+    - _panel3 // store 
+    - _panel4 // weather report *this is still under constructing 
+
+storeIndex.jsp: 
+    - _panel5 // store index 
+    - _panel6 // Tees 
+    - _panel7 // Shorts 
+    - _panel8 // surf gears 
+    - _panel9 // accessaries
